@@ -83,6 +83,10 @@ nav{
 	font-size: 14px;
 	color: #fff;
 }
+.text-int p{
+	font-size: 25px;
+	text-decoration: #f44336;
+}
 .hero-btn{
 	display: inline-block;
 	text-decoration: none;
